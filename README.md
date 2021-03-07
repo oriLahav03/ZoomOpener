@@ -7,6 +7,7 @@ Well, Here some instructions:
 1. To add your new meetings in your week, simply go to the file with the correct day (..\Files\Days) and add the information (time, link) - You can 
 leave all the other information (meeting id, passcode) blank. *if the meeting requires a password add it in the passcode too*
 *This is the class format in the day file:*
+
 Time: Example - 11:05,,Passcode if needed: Example - 101010,Zoom Link: Example - https://us04web.zoom.us/
 
 2. Make sure all the zoom settings are changed (when you run the program its will show you how to change and what to change).
