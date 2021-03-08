@@ -33,12 +33,12 @@ Python: You can download from here: https://www.python.org/downloads/
 
 Go to your CMD and install the following libraries by writing this:
 
-1. `pip install pandas`       - Waite for the installation to finish
+1. `pip install pandas`       - Wait for the installation to finish
   
-2. `pip install pyautogui`    - Waite for the installation to finish
+2. `pip install pyautogui`    - Wait for the installation to finish
    
-3. `pip install selenium`     - Waite for the installation to finish 
+3. `pip install selenium`     - Wait for the installation to finish 
   
-4. `pip install pillow`       - Waite for the installation to finish 
+4. `pip install pillow`       - Wait for the installation to finish 
 
 Copyright © 2021 Ori. All rights reserved.
