@@ -4,7 +4,7 @@ pip install pyinstaller
 
 after this run the bat file toExe.bat
 
-after the script finished go to the diractory called dist and here is your exe!
+after the script finished go to the directory called dist and here is your exe!
 you can drag it to the main folder and delete all the other fonders that have beed created (__pycache__, build, dist) and the file Zoomer.spec
 
 and here you go! you have an exe of the program.
